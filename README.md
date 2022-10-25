@@ -24,4 +24,4 @@ THEN I am again presented with current and future conditions for that city
 ```
 my webpage
 
-![my webpage](/assets/images/weatherapp.png "San Juan Mountains")
+![my webpage](/assets/images/weatherapp.png "my weather app")
